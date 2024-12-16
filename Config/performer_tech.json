@@ -1,0 +1,68 @@
+{
+    "Techs": [  
+        {
+            "Name": "Palming",
+            "Description": "Concealing or switching objects unnoticed through refined hand techniques."
+          },
+          {
+            "Name": "Manual Control",
+            "Description": "Employing skilled, rapid hand maneuvers to render object movements untraceable."
+          },
+          {
+            "Name": "Props Usage",
+            "Description": "Designing and using specialized props to enhance effects at a detailed scale."
+          },
+          {
+            "Name": "Visual Illusions",
+            "Description": "Utilizing light, mirrors, or similar methods to create deceptive appearances."
+          },
+          {
+            "Name": "Timing Control",
+            "Description": "Precisely adjusting action intervals to ensure continuous mystery."
+          },
+          {
+            "Name": "Memory Techniques",
+            "Description": "Applying mnemonic methods to record and retrieve audience data, enabling subtle mental effects."
+          },
+          {
+            "Name": "Invisible Cues",
+            "Description": "Embedding hidden marks or signals to facilitate subsequent actions."
+          },
+          {
+            "Name": "Quick Changes",
+            "Description": "Performing rapid transitions to alter objects or positions instantly."
+          },
+          {
+            "Name": "Two-Handed Operation",
+            "Description": "Coordinating both hands simultaneously to achieve complex manipulations."
+          },
+          {
+            "Name": "Device Assistance",
+            "Description": "Employing concealed tools or mechanisms to realize seemingly impossible tricks."
+          },
+          {
+            "Name": "Substitution Techniques",
+            "Description": "Swiftly exchanging items to maintain illusions without detection."
+          },
+          {
+            "Name": "Marked Hidden Marks",
+            "Description": "Placing subtle indicators on props or surfaces to guide future moves."
+          },
+          {
+            "Name": "Costume Changes",
+            "Description": "Rapidly altering attire or props to shift appearance or function."
+          },
+          {
+            "Name": "Mirror Displacement",
+            "Description": "Using reflective elements to produce vanish-and-reappear illusions."
+          },
+          {
+            "Name": "Multiplication",
+            "Description": "Arranging actions and props to create the impression of multiple simultaneous presences."
+          },
+          {
+            "Name": "Floating and Flying",
+            "Description": "Employing hidden supports or equipment to make objects or the performer appear to float or fly."
+          }
+    ]
+}

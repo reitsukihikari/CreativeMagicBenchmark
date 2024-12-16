@@ -1,0 +1,69 @@
+{
+  "Magics": [
+    {
+      "ID": 1,
+      "Setting": {
+        "Location": "Study room, classroom, library, or other environments with books",
+        "Objects": "Any two books (preferably with similar thickness)",
+        "Imagepath": ""
+      },
+      "Schemes": [
+        {
+          "ID": 1001,
+          "Name": "Retina Scanning",
+          "Setter": [
+            "The core idea of this magic trick is to create the illusion of mind-reading through clever wordplay and memory masking.",
+            "The magician pretends to flip through the book randomly and allows the audience to call out to stop, but actually remembers a specific page number and word.",
+            "The audience's choice of which book does not affect the trick's outcome because the magician can always control the final page number.",
+            "By disguising the 'retina scanning' effect, the magician gives the impression of reading the audience's memory through their eyes, thereby achieving a 'mind magic' effect.",
+            "This process is simple, easy to create interactive and participatory feelings among the audience, and doesn't require complex props."
+          ],
+          "Audience": [
+            "I find two books, choose one, the magician takes the other book, the magician flips through the book allowing me to stop at any time to randomly reach a page number.",
+            "I turn to this page number and memorize the first noun in the first line of the text.",
+            "The magician looks into my eyes and performs retina scanning, writing down the noun I saw on a piece of paper."
+          ],
+          "Performer": [
+            "Take two books, pretend to randomly open Book A, remember a page number C near the middle and the first noun of the first line.",
+            "Randomly flip through Book B and ask the audience to choose which book.",
+            "If Book A is chosen, hand it over to the audience; if Book B is chosen, use Book A for page selection.",
+            "Flip through the book and quickly point to page number C when the audience says stop, while also having the audience flip to page C.",
+            "Have the audience memorize the first noun on that page, perform 'retina scanning', write down the noun the audience memorized on paper, and finally show it to the audience."
+          ]
+        }
+      ]
+    },
+    {
+      "ID": 2,
+      "Setting": {
+        "Location": "A quiet café or study area",
+        "Objects": "An ordinary signing pen and a blank sheet of paper",
+        "Imagepath": "Dataset/Img/1001.jpg"
+      },
+      "Schemes": [
+        {
+          "ID": 2001,
+          "Name": "Mental Handwriting",
+          "Setter": [
+            "This magic trick uses psychological suggestion and guidance methods to make the audience subconsciously inclined to choose words that align with the magician's intentions.",
+            "Although the audience believes they are making random choices, they are unknowingly influenced by the magician.",
+            "Through this guidance, the audience is amazed and astonished, believing that the magician can read their thoughts.",
+            "This small magic trick is simple and easy to perform, easily arousing the audience's curiosity and participation, and only requires an ordinary pen and a piece of paper to execute."
+          ],
+          "Audience": [
+            "The audience writes a word on a piece of paper (can be a name, place, or any simple word), then folds the paper and sets it aside.",
+            "At the same time, the magician casually waves the pen and 'randomly' writes a word on the paper, finally showing it to the audience.",
+            "The audience opens their paper and discovers that the word the magician wrote is exactly the same as their own."
+          ],
+          "Performer": [
+            "Explain to the audience that a pen will be used to record a word.",
+            "Have the audience write down a word on paper, ensuring that the magician does not see it.",
+            "Have the audience fold the paper and set it aside, while the magician writes a word related to the audience's choice on a blank sheet.",
+            "Show the word written by the magician; the audience opens their paper and finds that both words match."
+          ]
+        }
+      ]
+    }
+  ]
+}
+

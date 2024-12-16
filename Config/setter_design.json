@@ -1,0 +1,20 @@
+{
+  "Designs": [
+    {
+      "Name": "Misdirection",
+      "Description": "Directing audience focus through language, actions, or visuals to conceal key moves on a macro level."
+    },
+    {
+      "Name": "Psychological Suggestion",
+      "Description": "Using verbal and nonverbal cues to influence audience thoughts and choices from an overall strategic perspective."
+    },
+    {
+      "Name": "Storytelling",
+      "Description": "Structuring the performance with a compelling narrative to maintain engagement and unify the show on a grand scale."
+    },
+    {
+      "Name": "Interactive Guidance",
+      "Description": "Steering audience participation as planned, shaping the experience from a high-level viewpoint."
+    }
+  ]
+}
